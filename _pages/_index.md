@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: "Ye Tian"
 author_profile: true
 permalink: /
