@@ -33,6 +33,10 @@ author_profile: true
     {% if post.doi %}
       <a href="https://doi.org/{{ post.doi }}">[DOI]</a>
     {% endif %}
+    {% if post.pdf %}
+  <a href="{{ post.pdf }}" target="_blank">[PDF]</a>
+{% endif %}
+
   </li>
 {% endfor %}
 </ul>
