@@ -14,7 +14,14 @@ My research focuses on **networked systems**, including:
 - Social power optimization
 - Distributed control
 
-Welcome to my academic homepage.  
+Education
+======
+- PhD in Control Theory and Control Engineering, Xidian University, 2021
+- B.S in Applied Mathematics, Ningxia University, 2014
+  
+Work and Research Experience
+======
+**Research Fellow**, Nanyang Technological University, 2024.7–2025.3
 Check out my:
 - 📄 [Publications](/publications/)
 - 🎤 [Talks](/talks/)
