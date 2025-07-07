@@ -11,30 +11,28 @@ author_profile: true
 
 <h2>Journal Papers</h2>
 <ul>
-{% for post in site.publications reversed %}
-  {% if post.type == "journal" %}
-    <li>
-      {{ post.authors }}, <strong>{{ post.title }}</strong>,
-      <em>{{ post.venue }}</em>, {{ post.year }}.
-      {% if post.doi %}
-        <a href="https://doi.org/{{ post.doi }}">[DOI]</a>
-      {% endif %}
-    </li>
-  {% endif %}
+{% assign journals = site.publications | where: "type", "journal" | sort: "year" | reverse %}
+{% for post in journals %}
+  <li>
+    {{ post.authors }}, <strong>{{ post.title }}</strong>,
+    <em>{{ post.venue }}</em>, {{ post.year }}.
+    {% if post.doi %}
+      <a href="https://doi.org/{{ post.doi }}">[DOI]</a>
+    {% endif %}
+  </li>
 {% endfor %}
 </ul>
 
 <h2>Conference Papers</h2>
 <ul>
-{% for post in site.publications reversed %}
-  {% if post.type == "conference" %}
-    <li>
-      {{ post.authors }}, <strong>{{ post.title }}</strong>,
-      <em>{{ post.venue }}</em>, {{ post.year }}.
-      {% if post.doi %}
-        <a href="https://doi.org/{{ post.doi }}">[DOI]</a>
-      {% endif %}
-    </li>
-  {% endif %}
+{% assign conferences = site.publications | where: "type", "conference" | sort: "year" | reverse %}
+{% for post in conferences %}
+  <li>
+    {{ post.authors }}, <strong>{{ post.title }}</strong>,
+    <em>{{ post.venue }}</em>, {{ post.year }}.
+    {% if post.doi %}
+      <a href="https://doi.org/{{ post.doi }}">[DOI]</a>
+    {% endif %}
+  </li>
 {% endfor %}
 </ul>
