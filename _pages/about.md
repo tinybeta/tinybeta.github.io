@@ -7,28 +7,26 @@ redirect_from:
 ---
 
 
-👋 Hi! I’m **Ye Tian**, a Postdoctoral Fellow at KTH Royal Institute of Technology.
+👋 Hi! I am currently a Postdoctoral Fellow at the Division of Decision and Control Systems under the supervision of Professors Karl Henrik Johansson and Angela Fontan.
+
+I received my PhD in Control Theory and Control Engineering from Xidian University in 2021, advised by Professor Long Wang. From 2017 to 2019, I was a visiting student at the University of California, Santa Barbara, working with Professors Francesco Bullo and Noah E. Friedkin. Between 2021 and 2025, I held research positions at Peking University, Kyoto University, and Nanyang Technological University.
+
+My research focuses on dyanmical network systems, with application in social networks.
 
 My research focuses on **networked systems**, including opinion dyanmics, multi-agent systems and collective intelligence.
 
-Education
-======
-- PhD in Control Theory and Control Engineering, Xidian University, 2021
-- B.S in Applied Mathematics, Ningxia University, 2014
+#Education
+#======
+#- PhD in Control Theory and Control Engineering, Xidian University, 2021
+#- B.S in Applied Mathematics, Ningxia University, 2014
   
-Work and Research Experience
-======
-**Postdoctoral Fellow**, KTH Royal Institute of Technology, 2025.4-present
+#Work and Research Experience
+#======
+#**Postdoctoral Fellow**, KTH Royal Institute of Technology, 2025.4-present
 
-**Research Fellow**, Nanyang Technological University, 2024.7–2025.3
+#**Research Fellow**, Nanyang Technological University, 2024.7–2025.3
 
-**Postdoctoral Fellow**, Kyoto University, 2022.10-2024.4
-
-**Visiting Scholar**, Southern University of Science and Technology, 2022.7-2022.9
-
-**Postdoctoral Fellow**, Peking University, 2021.10-2022.7
-
-**Visiting Student**, University of California, Santa Barbara, 2017.10-2019.9
+#**Postdoctoral Fellow**, Kyoto University, 2022.10-2024.4
 
 News
 ======
