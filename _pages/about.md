@@ -7,8 +7,7 @@ redirect_from:
 ---
 
 
-👋 Hi! I am currently a Postdoctoral Fellow at the Division of Decision and Control Systems under the supervision of Professors Karl Henrik Johansson and Angela Fontan.
-
+👋 Hi! I am currently a Postdoctoral Fellow at the Division of Decision and Control Systems under the supervision of Professors [Karl Henrik Johansson](people.kth.se/~kallej/) and [Angela Fontan](angelafontan.github.io/).
 I received my PhD in Control Theory and Control Engineering from Xidian University in 2021, advised by Professor Long Wang. From 2017 to 2019, I was a visiting student at the University of California, Santa Barbara, working with Professors Francesco Bullo and Noah E. Friedkin. Between 2021 and 2025, I held research positions at Peking University, Kyoto University, and Nanyang Technological University.
 
 My research focuses on dyanmical network systems, with application in social networks.
