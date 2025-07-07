@@ -23,9 +23,9 @@ repository               : "tinybeta/tinybeta.github.io"
 author:
   # Biographic information
   avatar           : "ye.jpg"
-  name             : "Ye Tian"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Stockholm, Sweden"
   employer         : "KTH Royal Institute of Technology"
   uri              : # URL
