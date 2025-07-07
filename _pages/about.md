@@ -15,9 +15,9 @@ My research focuses on **dynamical network systems**, with applications in socia
 
 News
 ======
-- **June 2025**: I presented our work at the [Swedish Control Conference 2025 (Reglerteknikmöte 2025)](https://reglermote2025.control.lth.se/), titled "Opinion optimization and the wisdom of crowds in social networks"([PDF](https://tinybeta.github.io/assets/papers/SCC2025.pdf)).
+- **June 2025**: I presented our work at the [Swedish Control Conference 2025 (Reglerteknikmöte 2025)](https://reglermote2025.control.lth.se/), titled _"Opinion Optimization and the Wisdom of Crowds in Social Networks"_([PDF](https://tinybeta.github.io/assets/papers/SCC2025.pdf)).
 
-- **May 2025**: Our paper _"Distributed perception of social power in influence networks with stubborn individuals"_ was posted on [arXiv](https://arxiv.org/abs/2506.01169).
+- **May 2025**: Our paper _"Distributed Perception of Social Power in Influence Networks with Stubborn Individuals"_ was posted on [arXiv](https://arxiv.org/abs/2506.01169).
 
 - **April 2025**: I joined the Division of Decision and Control Systems at KTH Royal Institute of Technology as a Postdoctoral Fellow.
 
