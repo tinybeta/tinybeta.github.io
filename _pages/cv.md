@@ -15,7 +15,7 @@ Education
 * Ph.D in Control Theory and Control Engineering, Xidian University, 2021
 * B.S. in Applied Mathematica, Ningxia University, 2014
 
-Work and research experience
+Work and Research Experience
 ======
 * 2024.7-2025.1: Research Fellow
   * Nanyang Technological University
@@ -39,14 +39,10 @@ Work and research experience
     
 * 2017.10-2019.9: Visiting Student
   * University of California, Santa Barbara
-  * Supervisor: Francesco Bullo and Noah E. Friedkin
+  * Supervisors: Francesco Bullo and Noah E. Friedkin
 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
   
