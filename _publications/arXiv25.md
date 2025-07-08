@@ -8,3 +8,4 @@ year: 2025
 type: journal
 pdf: https://arxiv.org/abs/2506.01169
 ---
+Available on arXiv: [https://arxiv.org/abs/2506.01169](https://arxiv.org/abs/2506.01169)
