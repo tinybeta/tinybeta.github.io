@@ -6,12 +6,14 @@ redirect_from:
   - /about.html
 ---
 
+Curriculum Vitae([PDF](https://tinybeta.github.io/assets/papers/CVYe.pdf))
 
 👋 Hi! I am currently a Postdoctoral Fellow at the Division of Decision and Control Systems, KTH Royal Institue of Technology under the supervision of Professors [Karl Henrik Johansson](https://people.kth.se/~kallej/) and [Angela Fontan](https://angelafontan.github.io/).
 
 I received my PhD in Control Theory and Control Engineering from Xidian University in 2021, advised by Professor [Long Wang](https://www.ai.pku.edu.cn/en/info/1406/1812.htm). From 2017 to 2019, I was a visiting student at the University of California, Santa Barbara, working with Professors [Francesco Bullo](https://fbullo.github.io/) and [Noah E. Friedkin](https://www.soc.ucsb.edu/people/noah-friedkin). Between 2021 and 2025, I held research positions at Peking University, Kyoto University, and Nanyang Technological University.
 
 My research focuses on **dynamical network systems**, with applications in social networks and collective behaviors. 
+
 
 News
 ======
