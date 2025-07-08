@@ -36,7 +36,11 @@ author_profile: true
     {% if post.pdf %}
   <a href="{{ post.pdf }}" target="_blank">[PDF]</a>
 {% endif %}
-
+    {% if entry.url %}
+  <strong><a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a></strong>
+{% else %}
+  <strong>{{ entry.title }}</strong>
+{% endif %}
   </li>
 {% endfor %}
 </ul>
