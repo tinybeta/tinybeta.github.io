@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+curriculum vitae([PDF](https://github.com/tinybeta/tinybeta.github.io/assets/CV Ye.pdf))
 
 Education
 ======
