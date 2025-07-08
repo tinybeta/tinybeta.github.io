@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-curriculum vitae([PDF](https://tinybeta.github.io/assets/papers/CVYe.pdf))
+curriculum vitae ([PDF](https://tinybeta.github.io/assets/papers/CVYe.pdf))
 
 Education
 ======
