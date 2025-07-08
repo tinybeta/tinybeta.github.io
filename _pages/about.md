@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Curriculum Vitae([PDF](https://tinybeta.github.io/assets/papers/CVYe.pdf))
+Curriculum Vitae ([PDF](https://tinybeta.github.io/assets/papers/CVYe.pdf))
 
 👋 Hi! I am currently a Postdoctoral Fellow at the Division of Decision and Control Systems, KTH Royal Institue of Technology under the supervision of Professors [Karl Henrik Johansson](https://people.kth.se/~kallej/) and [Angela Fontan](https://angelafontan.github.io/).
 
