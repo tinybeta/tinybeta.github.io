@@ -3,8 +3,7 @@ title: "Distributed Perception of Social Power in Influence Networks with Stubbo
 collection: publications
 permalink: /publication/arXiv25/
 authors: Y. Tian, Y. Kawano, W. Zhang, K. Kashima
-venue: arXiv
+venue: [arXiv](https://arxiv.org/abs/2506.01169)
 year: 2025
-url:  https://arxiv.org/abs/2506.01169
 type: journal
 ---
