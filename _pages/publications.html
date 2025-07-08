@@ -21,7 +21,7 @@ author_profile: true
     {% endif %}
     {% if post.url %}
   <a href="{{ post.url }}" target="_blank">[Link]</a>
-{% endif %}
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
@@ -38,10 +38,10 @@ author_profile: true
     {% endif %}
     {% if post.pdf %}
   <a href="{{ post.pdf }}" target="_blank">[PDF]</a>
-{% endif %}
+    {% endif %}
     {% if post.url %}
   <a href="{{ post.url }}" target="_blank">[Link]</a>
-{% endif %}
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
