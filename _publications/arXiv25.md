@@ -6,5 +6,5 @@ authors: Y. Tian, Y. Kawano, W. Zhang, K. Kashima
 venue: arXiv
 year: 2025
 type: journal
-url: https://arxiv.org/abs/2506.01169
+doi: 10.48550/arXiv.2506.01169
 ---
